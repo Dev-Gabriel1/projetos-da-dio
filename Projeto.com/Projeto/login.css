@@ -1,0 +1,32 @@
+body{
+ font-family: Arial, Helvetica, sans-serif;  
+}
+div{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    padding-top: 9%;
+}
+div{
+    margin: auto;
+    font-size: 20px;
+    text-align: center;
+}
+h1{
+    text-align:left;
+    color:#1473E6;
+}
+input{
+    width: 480px;
+    height: 60px;
+    margin: auto;
+    font-size: 20px;
+    margin-top: 0px;
+    color:#1473E6;
+    /*text-align: center;*/
+}
+#entrar{
+    margin-top: 3%;
+    background-color: #1473E6;
+    color: white;
+}
